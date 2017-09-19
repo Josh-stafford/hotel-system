@@ -1,0 +1,7 @@
+0 - Title
+1 - Surname
+2 - Year joined
+3 - Username
+4 - Days booked
+5 - Points
+6 - Membership status
